@@ -1,0 +1,75 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+
+h1{
+    font-size: 4rem;
+    color: rgb(30, 30, 211);
+}
+
+p{
+    font-size: 1.3rem;
+    color: rgb(247, 163, 6);
+    margin: 5px;
+}
+
+.wrapper{
+    height: 50vh;
+    width: 85vw;
+    border: green 5px solid;
+    display: flex;
+    margin: 50px;
+    
+}
+
+.displayRandomNum{
+    width: 50%;
+    border-left: black 2px solid;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    font-size: 10rem; 
+    color: red;
+}
+
+.guessTheNum{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    justify-content: center; 
+    align-items: center;
+}
+
+.displayNumber{
+    width: 50%;
+    height: 50%;
+    border: blue 1px solid;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    font-size: 10rem; 
+    color: purple;
+}
+
+.clickBtn>button{
+    margin: 15px;
+    padding: 5px;
+    width: 100px;
+    height: 30px;
+    border-radius: 50px;
+    color: white;
+    background-color: rgb(223, 31, 63);
+    border: pink;
+    font-size: 1.1rem;
+    cursor: pointer;
+}
+
+.clickBtn>button:hover{
+    background-color: aqua;
+}
