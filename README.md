@@ -1,5 +1,7 @@
 Catch the Number Game
 
-Create a game using HTML, CSS, and JavaScript.
+This is a simple web-based game created using HTML, CSS, and JavaScript.
 
-Display a random number. Click the "Run" button to start rolling random numbers. Use the "Stop" button to try and stop on the exact number. 
+In this game, a random number is displayed, and you can click the "Run" button to start rolling random numbers. Your challenge is to click the "Stop" button at just the right moment to land on the exact number and win the game.
+
+Good luck, and enjoy playing!
