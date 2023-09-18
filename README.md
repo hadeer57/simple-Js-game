@@ -6,4 +6,4 @@ In this game, a random number is displayed, and you can click the "Run" button t
 
 Good luck, and enjoy playing!
 
-https://hadeer57.github.io/simple-Js-game/
+
