@@ -41,8 +41,6 @@ p{
 }
 
 .displayRandomNum{
-    width: 20%;
-    border: white 5px solid;
     border-radius: 20%;
     display: flex;
     justify-content: center; 
